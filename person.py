@@ -51,7 +51,7 @@ class Person(object):
     def get_height(self):
         return self.height    
 
-    # modifers
+    # modifiers
     def set_weight(self, newWeight):
         self.weight = newWeight
 
